@@ -8,8 +8,7 @@ This project uses OpenCV to detect coin-shaped objects in an image with grayscal
 opencv-object-counting-/
 ├── Object_Detection_and_Counting_with_OpenCV.ipynb
 ├── images/
-│   ├── sample.jpg
-│   └── bozuk para.jpg
+│   └── sample.jpg
 ├── results/
 │   └── output.png
 ├── LICENSE
@@ -18,7 +17,6 @@ opencv-object-counting-/
 ~~~
 
 - images/sample.jpg is the input coin image used by the project.
-- images/bozuk para.jpg is the same source image with its original filename.
 - results/output.png is the annotated result saved from the executed Colab notebook.
 - The notebook source is Object_Detection_and_Counting_with_OpenCV.ipynb.
 
